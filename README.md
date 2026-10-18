@@ -16,7 +16,6 @@ Witaj w **Pogodzince** – nowoczesnej, precyzyjnej aplikacji pogodowej PWA (Pro
 7. [Fizyka atmosfery i parametry lotnicze](#7-fizyka-atmosfery-i-parametry-lotnicze)
 8. [Panel astronomiczny i fazy światła (Złota i Błękitna Godzina)](#8-panel-astronomiczny-i-fazy-światła-złota-i-błękitna-godzina)
 9. [24-godzinny rozkład godzinowy](#9-24-godzinny-rozkład-godzinowy)
-10. [Pobieranie paczki offline ZIP](#10-pobieranie-paczki-offline-zip)
 
 ---
 
@@ -156,11 +155,3 @@ Poziomy, przewijany horyzontalnie ciąg kafelków dla wszystkich 24 godzin wybra
 - Temperatura powietrza
 - Prawdopodobieństwo i wielkość opadu (w mm)
 - Prędkość i porywy wiatru
-
----
-
-## 10. POBIERANIE PACZKI OFFLINE ZIP
-
-W stopce aplikacji znajduje się przycisk **„Pobierz paczkę PWA (ZIP)”**:
-- Pobiera kompletne, spakowane archiwum `pogodzinka.zip`.
-- Po rozpakowaniu archiwum na dysku komputera możesz uruchomić plik `index.html` bezpośrednio w dowolnej przeglądarce – aplikacja działa w 100% lokalnie bez konieczności instalowania jakiegokolwiek środowiska programistycznego czy serwerów!
